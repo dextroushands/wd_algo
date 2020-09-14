@@ -1,0 +1,13 @@
+{
+  "epochs": 100,
+  "batch_size": 32,
+  "learning_rate": 0.1,
+  "hidden_size": [50],
+  "window_size": 5,
+  "lag_size": 6,
+  "data_path": "./jena_climate_2009_2016.csv",
+  "label_name": "T (degC)",
+  "output_path": "",
+  "model_path": ""
+
+}
